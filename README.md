@@ -1,0 +1,2 @@
+# dataTypes-summary
+In Javascript
